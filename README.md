@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: 
-  email: payson.parker@comcast.net
+- 📫 How to reach me: payson.parker@comcast.net
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
