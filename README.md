@@ -1,6 +1,6 @@
-### Hi there 👋
-
-- 📫 How to reach me: payson.parker@comcast.net
+#### 📫 payson.parker@comcast.net
+#### 🏫 Grand Canyon University, Class of 2023
+##### 
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
