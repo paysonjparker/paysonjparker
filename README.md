@@ -6,7 +6,8 @@
 #### 🔗 https://www.linkedin.com/in/p-j-parker/
 
 ## Languages & Tools:
-#### ![image](https://user-images.githubusercontent.com/90354190/209887131-8f386d1c-49a7-48cc-bdf8-e6143cf7b365.png)
+#### ![image](https://user-images.githubusercontent.com/90354190/209887181-1dc08466-36dd-47cd-ae6b-edcc7fdd5970.png)
+
 
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
