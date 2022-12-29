@@ -1,7 +1,7 @@
+## 👨🏻‍💻 About Me:
 ### 🏫 Grand Canyon University, Class of 2023
 ### 👨🏻‍🎓 B.S. in Software Development
 ### 📫 payson.parker@comcast.net
-### 
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
