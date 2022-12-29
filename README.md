@@ -6,7 +6,7 @@
 #### 🔗 https://www.linkedin.com/in/p-j-parker/
 
 ## Languages & Tools:
-![image](https://user-images.githubusercontent.com/90354190/209887181-1dc08466-36dd-47cd-ae6b-edcc7fdd5970.png)
+![image](https://user-images.githubusercontent.com/90354190/209887420-746956d3-9088-4991-8f18-5bf1a04312b4.png)
 ![image](https://user-images.githubusercontent.com/90354190/209887212-0c73e0cc-cf3b-4c6e-b9fc-0823772419bb.png)
 ![image](https://user-images.githubusercontent.com/90354190/209887305-b06baa41-4775-4bed-b733-ae3180564c8f.png)
 ![image](https://user-images.githubusercontent.com/90354190/209887244-1241fc45-2003-4e98-bf5b-3f49a9ef6f50.png)
