@@ -8,12 +8,12 @@
 # 🛠 Languages & Tools:
 ## Languages & Frameworks:
 <div>
-  ![image](https://user-images.githubusercontent.com/90354190/210102421-1edb823c-40f3-42f8-9bd4-718fd384e9eb.png)
-  ![image](https://user-images.githubusercontent.com/90354190/209887460-3b79c0a9-c7a0-4994-8265-4921686ff6fa.png)
-  ![image](https://user-images.githubusercontent.com/90354190/209887592-0b0e9816-adb5-4f8c-8d18-06762ca86e28.png)
-  ![image](https://user-images.githubusercontent.com/90354190/209887538-d749e2d9-f0f3-456c-a7e8-43883ec24e87.png)
-  ![image](https://user-images.githubusercontent.com/90354190/209887618-584fd92d-2ea8-4d40-a4ad-f16cc711ff2f.png)
-  ![image](https://user-images.githubusercontent.com/90354190/210102501-85a5b54c-3da0-4447-a628-7ee5b96d0475.png)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg"                title="Java" **alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg"            title="Spring" **alt="Spring" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"                        title="html" **alt="html" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"                          title="css" **alt="css" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg"                      title="csharp" **alt="csharp" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain-wordmark.svg"              title="dotnet" **alt="dotnet" width="60" height="60"/>
 </div>
 ## Databases:
 <div>
