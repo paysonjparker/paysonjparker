@@ -17,14 +17,15 @@
 </div>
 ## Databases:
 <div>
-  ![image](https://user-images.githubusercontent.com/90354190/210102669-c7b5394b-4941-4077-b37b-43e80ba9b6cf.png)
-  ![image](https://user-images.githubusercontent.com/90354190/210102688-3ffa179b-bd29-465f-bf48-69e2cc4152c3.png)
-</div>
-## IDEs:
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"            title="VisualStudio" **alt="VisualStudio" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"                      title="VSCode" **alt="VSCode" width="60" height="60"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg"                      title="IntelliJ" **alt="IntelliJ" width="60" height="60"/>
+</div>
+## IDEs:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"            title="VisualStudio" **alt="VisualStudio" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"                      title="VSCode" **alt="VSCode" width="60" height="60"/>
+</div>
 
 ## Other Tools:
 <div>
