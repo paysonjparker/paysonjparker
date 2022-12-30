@@ -22,7 +22,8 @@
 </div>
 ## IDEs:
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"            title="VisualStudio" **alt="VisualStudio" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg"            title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>
 
   ![image](https://user-images.githubusercontent.com/90354190/209887805-48e353f5-bac9-43c3-99b8-d145beffaa1d.png)
   ![image](https://user-images.githubusercontent.com/90354190/209887847-d1ee6a0a-fbdd-40f6-984c-ba0a63563688.png)
