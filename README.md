@@ -28,10 +28,11 @@
 </div>
 ## Other Tools:
 <div>
-  ![image](https://user-images.githubusercontent.com/90354190/209887664-8776d92e-9685-4361-8634-ca845d269988.png)
-  ![image](https://user-images.githubusercontent.com/90354190/210103474-41b6262e-829f-4331-904e-5e993fb6eca6.png)
-  ![image](https://user-images.githubusercontent.com/90354190/210103565-2988abfe-d341-49ba-bf82-f1d99fadd042.png)
-  ![image](https://user-images.githubusercontent.com/90354190/210103694-3da3ca4e-2e53-473f-9143-170de95996e3.png)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg"                title="jira" **alt="jira" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg"                        title="slack" **alt="slack" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"                      title="gitlab" **alt="gitlab" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-line.svg"             
+     title="xd" **alt="xd" width="60" height="60"/>
 </div>
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
