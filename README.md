@@ -19,6 +19,7 @@
 ![image](https://user-images.githubusercontent.com/90354190/210102688-3ffa179b-bd29-465f-bf48-69e2cc4152c3.png)
 
 ## IDEs:
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 ![image](https://user-images.githubusercontent.com/90354190/209887805-48e353f5-bac9-43c3-99b8-d145beffaa1d.png)
 ![image](https://user-images.githubusercontent.com/90354190/209887847-d1ee6a0a-fbdd-40f6-984c-ba0a63563688.png)
 ![image](https://user-images.githubusercontent.com/90354190/210103026-75939fdc-4d61-4749-9465-b3eea60c5f61.png)
