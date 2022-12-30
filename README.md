@@ -23,13 +23,8 @@
 ![image](https://user-images.githubusercontent.com/90354190/209887847-d1ee6a0a-fbdd-40f6-984c-ba0a63563688.png)
 ![image](https://user-images.githubusercontent.com/90354190/210103026-75939fdc-4d61-4749-9465-b3eea60c5f61.png)
 
-## Operating Systems
-![image](https://user-images.githubusercontent.com/90354190/210103415-51b19f13-4eb8-4bed-8f5b-e192e6bc571d.png)
-
-
 ## Other Tools:
 ![image](https://user-images.githubusercontent.com/90354190/209887664-8776d92e-9685-4361-8634-ca845d269988.png)
-![image](https://user-images.githubusercontent.com/90354190/209887769-8d7f47a3-7270-4a9a-942e-793b39862295.png)
 
 
 
