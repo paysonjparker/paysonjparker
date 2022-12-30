@@ -15,13 +15,17 @@
 ![image](https://user-images.githubusercontent.com/90354190/210102501-85a5b54c-3da0-4447-a628-7ee5b96d0475.png)
 
 ## Databases:
-##### ![image](https://user-images.githubusercontent.com/90354190/210102669-c7b5394b-4941-4077-b37b-43e80ba9b6cf.png)
+![image](https://user-images.githubusercontent.com/90354190/210102669-c7b5394b-4941-4077-b37b-43e80ba9b6cf.png)
 ![image](https://user-images.githubusercontent.com/90354190/210102688-3ffa179b-bd29-465f-bf48-69e2cc4152c3.png)
 
 ## IDEs:
 ![image](https://user-images.githubusercontent.com/90354190/209887805-48e353f5-bac9-43c3-99b8-d145beffaa1d.png)
 ![image](https://user-images.githubusercontent.com/90354190/209887847-d1ee6a0a-fbdd-40f6-984c-ba0a63563688.png)
 ![image](https://user-images.githubusercontent.com/90354190/210103026-75939fdc-4d61-4749-9465-b3eea60c5f61.png)
+
+## Operating Systems
+![image](https://user-images.githubusercontent.com/90354190/210103415-51b19f13-4eb8-4bed-8f5b-e192e6bc571d.png)
+
 
 ## Other Tools:
 ![image](https://user-images.githubusercontent.com/90354190/209887664-8776d92e-9685-4361-8634-ca845d269988.png)
