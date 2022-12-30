@@ -1,9 +1,9 @@
-## 👨🏻‍💻 About Me:
-#### 🏫 Grand Canyon University, Class of 2023
-#### 👨🏻‍🎓 B.S. in Software Development
-#### 📍 Olympia, WA
-#### 📫 payson.parker@comcast.net
-#### 🔗 https://www.linkedin.com/in/p-j-parker/
+# 👨🏻‍💻 About Me:
+### 🏫 Grand Canyon University, Class of 2023
+### 👨🏻‍🎓 B.S. in Software Development
+### 📍 Olympia, WA
+### 📫 payson.parker@comcast.net
+### 🔗 https://www.linkedin.com/in/p-j-parker/
 
 # 🛠 Languages & Tools:
 ## Languages & Frameworks:
