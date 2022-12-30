@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/90354190/210102501-85a5b54c-3da0-4447-a628-7ee5b96d0475.png)
 
 ## Databases:
-![image](https://user-images.githubusercontent.com/90354190/210102669-c7b5394b-4941-4077-b37b-43e80ba9b6cf.png)
+##### ![image](https://user-images.githubusercontent.com/90354190/210102669-c7b5394b-4941-4077-b37b-43e80ba9b6cf.png)
 ![image](https://user-images.githubusercontent.com/90354190/210102688-3ffa179b-bd29-465f-bf48-69e2cc4152c3.png)
 
 ## IDEs:
