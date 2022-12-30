@@ -24,8 +24,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-line.svg"             
      title="xd" width="60" height="60"/>
 </div>
---- 
-# 🔥 Stats:
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paysonjparker&theme=dark&border_radius=8)](https://git.io/streak-stats)
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
