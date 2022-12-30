@@ -27,8 +27,9 @@
   
 </div>
 
-# 🔥 My Stats :
+# 🔥 Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paysonjparker&theme=dark&border_radius=8)](https://git.io/streak-stats)
+
 <!--
 **paysonjparker/paysonjparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
