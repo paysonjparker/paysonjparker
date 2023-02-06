@@ -25,7 +25,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"
      title="Eclipse" width="60" height="60"/>
   <img src="https://1.bp.blogspot.com/-QsZYakuFeZc/YOu85v4QZCI/AAAAAAAAL4o/swwm0PB0uW8Y2-SEYLi--s8byFieqcshACNcBGAsYHQ/w400-h400/spring.webp"                  title="SpringToolsSuite" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg"                  title="IntelliJ" width="60" height="60"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AIntelliJ_IDEA_Icon.svg&psig=AOvVaw3Z9g4yH38_X4uvxWJAVUcy&ust=1675788692390000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICN4b-tgf0CFQAAAAAdAAAAABAE"                  title="IntelliJ" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg"                title="jira" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg"                        title="slack" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"                      title="gitlab" width="60" height="60"/>
