@@ -3,8 +3,7 @@
 ### 👨🏻‍🎓 B.S. in Software Development
 ### 📍 Olympia, WA
 ### 📫 payson.parker@comcast.net
-### 🔗 https://www.linkedin.com/in/p-j-parker/
-<a href="https://www.linkedin.com/in/p-j-parker/">
+###<a href="https://www.linkedin.com/in/p-j-parker/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
