@@ -1,7 +1,7 @@
 # 👨🏻‍💻 About Me:
 ### 🏫 Grand Canyon University, Class of 2023
 ### 👨🏻‍🎓 B.S. in Software Development
-### 📍 Olympia, WA
+### 📍 Montesano, WA
 ### 📫 payson.parker@comcast.net
 
 <a href="https://www.linkedin.com/in/p-j-parker/">
